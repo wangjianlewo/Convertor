@@ -1,0 +1,13 @@
+<MKM version="2.0" imageFileUrl="file:///Users/wangjianle/Desktop/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/Convertor/Convertor/Images/OtherImages/BackgroudImage@2x.png">
+  <Marks>
+    <RectMark color="16711680" x="19" y="52" offsetX="0" offsetY="0"/>
+    <LengthMark direction="3" color="16711680" length="158" x="163" y="52"/>
+    <LengthMark direction="3" color="16711680" length="20" x="116" y="240"/>
+    <RectMark color="16711680" x="21" y="266" offsetX="0" offsetY="0"/>
+    <RectMark color="16711680" x="170" y="266" offsetX="0" offsetY="0"/>
+    <LengthMark direction="3" color="16711680" length="146" x="141" y="265"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14396353" offsetX="25" offsetY="10" x="159" y="406"/>
+    <ColorMark defaultDirection="10" colorSystem="hex" direction="10" color="16711680" targetColor="15194059" offsetX="6" offsetY="6" x="159" y="439"/>
+    <RectMark color="16711680" x="23" y="220" offsetX="0" offsetY="0"/>
+  </Marks>
+</MKM>
