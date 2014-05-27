@@ -1,7 +1,8 @@
 Convertor
 =========
 
-https://github.com/wangjianlewo/Convertor/blob/master/disPlay.png
+![](https://raw.githubusercontent.com/wangjianlewo/Convertor/master/disPlay.png)
+
 
 将简体字转换为火星文,繁体字,拆字
 
